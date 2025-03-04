@@ -7,7 +7,7 @@
  Care Connect Eng team, Product Managers, DevEx Engineers and the DevSecOps Team.
  
  ## Scope
- 4 Scenarios were run covering: (1) AI Generated External phishing email utilising admin credentials, (2) Attack against Machine Processes and the data lake, (3) SQL Injection attack and (4) Insider attack taking Quant algorithms.
+ 3 Scenarios were run covering: (1) AI Generated External phishing email utilising admin credentials, (2) Attack against Machine Processes and the data lake, (3) Insider attack taking Quant algorithms.
  
  ## Methodology
  All scenarios were run against the cyber attack killchain, utilising the Mitre Att&ack methods and STRIDE for control gap assessments. Culminating in identified risks. 
@@ -45,4 +45,3 @@
        Attack 1
        Attack 2
        Attack 3
-       Attack 4
